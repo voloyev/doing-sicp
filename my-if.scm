@@ -1,4 +1,5 @@
 #lang scheme
+;; Ex 1.6 && 1.7
 (define (sqrt x)
   (sqrt-iter 1.0 x))
 
